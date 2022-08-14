@@ -3,7 +3,7 @@
 .cls1,
 .cls3,
 .cls5 {
-    background-color: hsl(0, 100%, 10%);
+    background-color: hsl(0, 100%, 90%);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
@@ -17,7 +17,7 @@
 }
 
 #num4 {
-    background-color: hsl(120, 100%, 10%);
+    background-color: hsl(120, 100%, 90%);
     font-size: 24px;
     font-weight: 700;
 }
